@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-	printf("HelloWorld");
-	int i = 15;
+	printf("Hello");
+	int i = 10;
 	printf("%d",i);
 
 }
