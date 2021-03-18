@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("Hello");
-	int i = 10;
+	printf("HelloWorld");
+	int i = 15;
 	printf("%d",i);
 }
